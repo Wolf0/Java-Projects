@@ -1,0 +1,20 @@
+<Processors>
+Quad Core 3.4 GHz	0
+Quad Core 3.5 GHz	50
+Quad Core 3.6 GHz	150
+<Memory>
+4GB	0
+8GB	50
+16GB	100
+32GB	150
+<Disk>
+500GB	0
+1TB	50
+2TB	150
+<OS>
+Windows 7 Professional	0
+Windows 7 Ultimate	100
+<Software>
+Office Package	400
+Accounting Package	200
+Graphics Package	600
